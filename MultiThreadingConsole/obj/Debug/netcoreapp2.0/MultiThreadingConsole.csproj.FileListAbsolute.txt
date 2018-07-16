@@ -1,0 +1,11 @@
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\bin\Debug\netcoreapp2.0\MultiThreadingConsole.deps.json
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\bin\Debug\netcoreapp2.0\MultiThreadingConsole.runtimeconfig.json
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\bin\Debug\netcoreapp2.0\MultiThreadingConsole.runtimeconfig.dev.json
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\bin\Debug\netcoreapp2.0\MultiThreadingConsole.dll
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\bin\Debug\netcoreapp2.0\MultiThreadingConsole.pdb
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\obj\Debug\netcoreapp2.0\MultiThreadingConsole.csprojResolveAssemblyReference.cache
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\obj\Debug\netcoreapp2.0\MultiThreadingConsole.csproj.CoreCompileInputs.cache
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\obj\Debug\netcoreapp2.0\MultiThreadingConsole.AssemblyInfoInputs.cache
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\obj\Debug\netcoreapp2.0\MultiThreadingConsole.AssemblyInfo.cs
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\obj\Debug\netcoreapp2.0\MultiThreadingConsole.dll
+c:\users\pc\source\repos\MultiThreadingConsole\MultiThreadingConsole\obj\Debug\netcoreapp2.0\MultiThreadingConsole.pdb
